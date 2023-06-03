@@ -30,3 +30,37 @@ p {
   justify-content: center;
   width: 90%
 }
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+ul {
+  width: 50%;
+  font-size: 18px;
+  text-align: justify;
+}
+
+li {
+  padding: 10px 0;
+}
+
+blockquote {
+  width: 100%
+}
+
+.last {
+  width: 50%;
+  text-align: left;
+  font-size: 18px;
+}
+
+.em {
+  margin-top: 5px;
+}
+
+a {
+  color: #065666;
+}
